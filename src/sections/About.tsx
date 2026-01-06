@@ -1,5 +1,4 @@
 import Section from '../components/Section';
-import { personalInfo } from '../data/portfolioData';
 
 const About = () => {
   const highlights = [
